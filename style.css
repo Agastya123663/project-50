@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    background-color: skyblue;
+}
+
+.comp{
+    border: dashed;
+    text-align: center;
+   background-color: skyblue;
+
+}
+
+*{
+   background-color: royalblue;
+
+}
+
+a{
+    text-align: center;
+    font-size: larger;
+    color: oldlace;
+}
+
+p{
+    text-align: center;
+    font-size: x-large;
+    font-style: unset;
+}
+
+.clan{
+    background-color: paleturquoise;
+    border: dashed;
+    text-align: center;
+}
+
+.clan a{
+    background-color: blue;
+    text-align: center;
+}
+
+.clan p{
+    background-color: paleturquoise;
+}
+
+.leaderboard{
+    justify-content: end;
+   
+}
+
+.course{
+    border: dashed;
+    text-align: center;
+    background-color: seashell;
+}
+
+.course p{
+    background-color: seashell;
+}
+
+.course a{
+    background-color: seashell;
+    color: violet;
+}
+
+.art{
+    border: dashed;
+    background-color: snow;
+}
+
+.art p{
+    background-color: snow;
+}
